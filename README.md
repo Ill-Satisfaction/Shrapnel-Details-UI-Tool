@@ -2,9 +2,9 @@
 
 I created the Engagements Details UI tool so that game testers on Shrapnel could get actual information about the real behaviors of weapons, to check against expected behavior in a quantifiable way.
 Mainly:
-2. There were about 90 character progression perks that needed to be tested, almost all of which had some minor effect on gunplay that the tool could validate quickly.
-3. Design wanted to get more information about TTK and accuracy for tuning different weapons.
-1. There was some pernicious issues with hit registration that I wanted to get better real-time-footage of.
+1. There were about 90 character progression perks that needed to be tested, almost all of which had some minor effect on gunplay that the tool could validate quickly.
+2. Design wanted to get more information about TTK and accuracy for tuning different weapons.
+3. There was some pernicious issues with hit registration that I wanted to get better real-time-footage of.
 
 <img width="1067" height="593" alt="image" src="https://github.com/user-attachments/assets/ddd88049-ca8b-4033-9ae7-b5060392ee82" />
 
